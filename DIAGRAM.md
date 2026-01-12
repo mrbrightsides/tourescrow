@@ -2,10 +2,6 @@
 
 <img width="3829" height="5712" alt="System Architecture Overview" src="https://github.com/user-attachments/assets/be1017f1-eef6-412f-b5ad-d95e825f0eb8" />
 
-# Complete Booking & Settlement Flow
-
-<img width="12602" height="9035" alt="Complete Booking   Settlement Flow" src="https://github.com/user-attachments/assets/80798aef-8512-47f8-9159-d3d62c74a038" />
-
 # Multi-Party Coordination Architecture
 
 <img width="8196" height="3840" alt="Multi-Party Coordination Architecture" src="https://github.com/user-attachments/assets/08623cc4-6254-4071-a0c5-0e3ea8ddac4d" />
