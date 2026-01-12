@@ -26,7 +26,7 @@ with st.sidebar:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
-    #### 🙌 Dukungan & kontributor
+    #### 🙌 Support & Contribute
     
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/tourescrow)
     - Built with 💙 by [Khudri](https://s.id/khudri)
