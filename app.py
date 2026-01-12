@@ -15,6 +15,7 @@ with st.sidebar:
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
     **Tour Escrow** is an automated escrow and revenue split system for tourism bookings using MNEE USD-backed stablecoin. Lock payments, auto-distribute to stakeholders, and eliminate payment delays.
+    
     ---
     #### 🔮 Vision Statement
     
