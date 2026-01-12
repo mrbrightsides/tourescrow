@@ -10,6 +10,8 @@
 [![Base](https://img.shields.io/badge/Base-Sepolia-0052FF.svg)](https://basescan.org/)
 [![Track](https://img.shields.io/badge/Track-Financial%20Automation-orange.svg)](https://mnee.io)
 
+> For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
+
 ---
 
 ## 🌟 What is TourEscrow?
