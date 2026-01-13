@@ -23,7 +23,7 @@ with st.sidebar:
    
     ---
     ### 🧩 Apps Showcase
-    Lihat disini untuk semua tools yang kami kembangkan:
+    Our apps and tools can be seen here:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
